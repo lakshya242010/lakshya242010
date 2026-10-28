@@ -1,6 +1,6 @@
 # Hi, I'm Lakshya 👋
 
-### Full Stack Developer | AI Tools Specialist | Digital Marketing Learner
+### Ai & automation developer | Digital Marketing Learner
 
 📍 Kaithal, Haryana, India
 🤖 Building real-world projects with 50+ AI tools
@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a full stack developer from Kaithal, Haryana who loves turning ideas into working products using modern AI tools. I build websites, automation agents and content platforms, and I'm currently deepening my skills in digital marketing powered by AI.
+I'm a Ai & automation developer from Kaithal, Haryana who loves turning ideas into working products using modern AI tools. I build websites, automation agents and content platforms, and I'm currently deepening my skills in digital marketing powered by AI.
 
 ---
 
