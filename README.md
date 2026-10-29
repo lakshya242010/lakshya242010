@@ -48,8 +48,8 @@ An independent legal history journal covering the judgments, arguments and turni
 
 ---
 
-### 🤖 3. Telegram Automation Agent
-An automation agent that handles Telegram tasks automatically.
+### 🤖 3. Blogger ai agent
+An automation agent that post blogs on blogger website.
 
 🔗 **Link:** *Coming soon*
 
